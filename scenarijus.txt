@@ -1,0 +1,71 @@
+Svetainės funkcionalumo aprašymas
+
+1. Pagrindinis puslapis
+
+    Puslapis sėkmingai užsikrauna
+
+    Rodomas pasveikinimo tekstas
+
+    Matoma navigacijos juosta
+
+2. Navigacija
+
+    Nuoroda į pagrindinį puslapį
+
+    Nuoroda į parduotuvę
+
+    Nuoroda į kontaktų puslapį
+
+3. Parduotuvės puslapis
+
+    Produktų sąrašas
+
+    Produktų filtravimas pagal kategorijas
+
+    Produktų rūšiavimas pagal kainą/populiarumą
+
+    Produktų paieška
+
+4. Produkto puslapis
+
+    Produkto pavadinimas, kaina, aprašymas
+
+    Mygtukas „Pridėti į krepšelį“
+
+    Atsiliepimai apie produktą
+
+5.Pirkinių krepšelis
+
+    Pridėti produktą į krepšelį
+
+    Pašalinti produktą iš krepšelio
+
+    Atnaujinti produktų kiekį
+
+    Skaičiuojama bendra kaina
+
+6. Atsiskaitymo procesas
+
+    Perėjimas į atsiskaitymo puslapį
+
+    Pirkėjo duomenų forma (vardas, el. paštas, adresas)
+
+    Užsakymo patvirtinimo mygtukas
+
+    Užsakymo sėkmės žinutė
+
+7. Kontaktų puslapis
+
+    Kontaktinė forma (vardas, el. paštas, žinutė)
+
+    Siuntimo mygtukas
+
+    Patvirtinimo žinutė apie sėkmingą išsiuntimą
+
+8. Kitos funkcijos
+
+    Slapukų informacinis pranešimas
+
+    Mobiliosios versijos pritaikymas
+
+    Socialinių tinklų nuorodos
