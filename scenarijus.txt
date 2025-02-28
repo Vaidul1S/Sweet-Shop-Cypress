@@ -16,7 +16,7 @@ Svetainės funkcionalumo aprašymas
 
     Nuoroda į kontaktų puslapį
 
-3. Parduotuvės puslapis
+3. Produktų puslapis
 
     Produktų sąrašas
 
@@ -26,15 +26,7 @@ Svetainės funkcionalumo aprašymas
 
     Produktų paieška
 
-4. Produkto puslapis
-
-    Produkto pavadinimas, kaina, aprašymas
-
-    Mygtukas „Pridėti į krepšelį“
-
-    Atsiliepimai apie produktą
-
-5.Pirkinių krepšelis
+4.Pirkinių krepšelis
 
     Pridėti produktą į krepšelį
 
@@ -44,7 +36,7 @@ Svetainės funkcionalumo aprašymas
 
     Skaičiuojama bendra kaina
 
-6. Atsiskaitymo procesas
+5. Atsiskaitymo procesas
 
     Perėjimas į atsiskaitymo puslapį
 
@@ -54,18 +46,4 @@ Svetainės funkcionalumo aprašymas
 
     Užsakymo sėkmės žinutė
 
-7. Kontaktų puslapis
 
-    Kontaktinė forma (vardas, el. paštas, žinutė)
-
-    Siuntimo mygtukas
-
-    Patvirtinimo žinutė apie sėkmingą išsiuntimą
-
-8. Kitos funkcijos
-
-    Slapukų informacinis pranešimas
-
-    Mobiliosios versijos pritaikymas
-
-    Socialinių tinklų nuorodos
