@@ -1,6 +1,6 @@
 describe('Login', () => {
 
-  it('Visit Sweet Shop', () => {
+  it('1. Visit Sweet Shop', () => {
     cy.visit('https://sweetshop.netlify.app/')
     cy.get('.nav-link').contains('Login').click();
     cy.url().should('eq', 'https://sweetshop.netlify.app/login');
@@ -10,7 +10,7 @@ describe('Login', () => {
     cy.visit('https://sweetshop.netlify.app/login')
   });
 
-  it('Login successfully', () => {
+  it('2. Login successfully', () => {
     cy.get('#exampleInputEmail').click().type('test@example.com');
     cy.get('#exampleInputPassword').click().type('1234');
 
@@ -19,7 +19,7 @@ describe('Login', () => {
     cy.contains('Welcome back test@user.com').should('be.visible');
   });
 
-  it('Login unsuccessfully', () => {
+  it('3. Login unsuccessfully', () => {
     cy.get('#exampleInputEmail').click();
     cy.get('#exampleInputPassword').click();
 

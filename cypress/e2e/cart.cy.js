@@ -1,5 +1,5 @@
 describe('Cart', () => {
-    it('Cart Page', () => {
+    it('1. Cart Page', () => {
         cy.visit('https://sweetshop.netlify.app/');
         cy.get('a.btn').contains('Browse Sweets').should('be.visible').click();
 
