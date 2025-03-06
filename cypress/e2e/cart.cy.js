@@ -1,5 +1,5 @@
-describe('Cart', () => {
-    it('1. Cart Page', () => {
+describe('Cart Page', () => {
+    it('Add products to the basket and check their properties.', () => {
         cy.visit('https://sweetshop.netlify.app/');
         cy.get('a.btn').contains('Browse Sweets').should('be.visible').click();
 
@@ -10,7 +10,7 @@ describe('Cart', () => {
 
         cy.get('.nav-link').contains('Basket').click();
         cy.url().should('eq', 'https://sweetshop.netlify.app/basket');
-        
+    
         cy.get('#basketCount').should('have.text','4');
 
         cy.get('.list-group-item').eq(0).contains('Swansea Mixture').should('be.visible');
