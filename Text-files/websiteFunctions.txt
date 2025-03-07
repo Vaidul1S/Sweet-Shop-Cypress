@@ -1,0 +1,55 @@
+1. Pagrindinis puslapis:
+
+    Navigacijos meniu:
+
+    Sweets: nuoroda į saldainių asortimentą.
+    About: informacija apie projektą.
+    Login: prisijungimo puslapis.
+    Basket: pirkinių krepšelis su prekių skaičiumi.
+    Reklaminis skydelis: „Sale now on“ – informacija apie vykstančią akciją.
+
+    Pasveikinimo žinutė: „Welcome to the sweet shop! The sweetest online shop out there.“
+
+    Mygtukas: „Browse Sweets“ – peržiūrėti saldainių asortimentą.
+
+2. Populiariausi produktai:
+
+    Sherbert Straws: spalvoti šiaudeliai su cukraus pudra. Kaina: £0.75.
+    Chocolate Cups: šokoladiniai puodeliai. Kaina: £1.00.
+    Sherbert Discs: skraidančios lėkštutės su šerbeto įdaru. Kaina: £0.95.
+    Bon Bons: rožiniai braškiniai bonbonai su cukraus pudra. Kaina: £1.00.
+    Kiekvieno produkto funkcionalumas:
+
+    Produkto pavadinimas ir aprašymas.
+    Kaina.
+    Mygtukas „Add to Basket“: pridėti prekę į krepšelį.
+
+3. Apie mus (About) puslapis:
+
+    Projekto aprašymas: „An intentionally broken web application to help demonstrate Chrome DevTools.“
+    Tikslas: padėti demonstruoti Chrome DevTools funkcijas, naudingas testuojant interneto aplikacijas.
+    Pastaba: svetainė tyčia sukurta su klaidomis, siekiant imituoti realias problemas.
+    
+4. Prisijungimo (Login) puslapis:
+
+    El. pašto adresas: įvesti galiojantį el. pašto adresą.
+    Slaptažodis: įvesti galiojantį slaptažodį.
+    Mygtukas „Login“: prisijungti prie paskyros.
+    Socialinių tinklų piktogramos: Twitter, Facebook, LinkedIn.
+
+5. Pirkinių krepšelis (Basket):
+
+    Krepšelio ikona su prekių skaičiumi: rodo, kiek prekių yra krepšelyje.
+    Prekių peržiūra: galimybė peržiūrėti pridėtas prekes.
+    Prekių kiekio keitimas: galimybė keisti prekių kiekį krepšelyje.
+    Prekių pašalinimas: galimybė pašalinti prekes iš krepšelio.
+   
+6. Apmokėjimas (Checkout):
+
+    Apmokėjimo procesas: galimybė tęsti apmokėjimą už prekes.
+
+
+
+Pastabos:
+
+Svetainė sukurta siekiant padėti testavimo programų žinias ir funkcijas, todėl joje yra tyčinių klaidų ir neatitikimų. 

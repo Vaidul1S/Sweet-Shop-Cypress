@@ -1,0 +1,41 @@
+Svetainės funkcionalumo testų aprašymas:
+
+1. Pagrindinis puslapis
+    1.1 Puslapis sėkmingai užsikrauna
+    1.2 Rodomas pasveikinimo tekstas
+    1.3 Matoma navigacijos juosta
+
+2. Navigacija
+    2.1 Nuoroda į pagrindinį puslapį
+    2.2 Nuoroda į produktų sąrašą
+    2.3 Nuoroda į 'apie' puslapį
+    2.4 Nuoroda į krepšelį
+
+3. Produktų puslapis
+    3.1 Produktų sąrašas    
+    3.1 Produktų sąrašo tikrinimas (pavadinimas, aprašymas, kaina, nuotrauka)    
+    3.2 Produktų pridėjimas į krepšelį
+
+4. Prisijungimas
+     4.1 Sėkmingas prisijungimas
+     4.2 Nesėkmingas prisijungimas
+
+5. Pirkinių krepšelis
+    5.1 Pridėti produktą į krepšelį
+    5.2 Tikrinamas krepšelio turinys
+    5.3 Pašalinti produktą iš krepšelio
+    5.4 Atnaujinti produktų kiekį
+    5.5 Skaičiuojama bendra kaina
+
+6. Atsiskaitymo procesas
+    6.1 Perėjimas į atsiskaitymo puslapį
+    6.2 Sėkmingas atsiskaitymas
+        6.2.1 Pirkėjo duomenų forma (vardas, el. paštas, adresas ir tt)
+        6.2.2 Užsakymo patvirtinimo mygtukas
+        6.2.3 Užsakymo sėkmės žinutė
+    6.3 Nesėkmingas atsiskaitymas
+        6.3.1 Pirkėjo duomenų forma paliekama tuščia
+        6.3.2 Užsakymo patvirtinimo mygtukas
+        6.3.3 Matomos būtinųjų laukų užpildymo prašymų žinutės
+
+
