@@ -29,6 +29,4 @@ describe('Login', () => {
     cy.contains('Please enter a valid password.').should('be.visible');
   });
 
-
-
 });
